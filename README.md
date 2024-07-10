@@ -7,3 +7,5 @@ function==
 only show file
 and settings for theme
 ==========
+
+.
